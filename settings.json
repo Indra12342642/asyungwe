@@ -9,14 +9,14 @@
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "6282228302341",
-	"ownerNumberr": "6281347927862",
-	"cr": "Dev.RATU",
-	"ownername": "Dev.INDRA",
+	"ownerNumber": "6281347927862",
+	"ownerNumberr": "6282228302341",
+	"cr": "INDRA.RATU",
+	"ownername": "INDRA.Dev",
 	"botname":"🎭Elaina.BOT",
 	"thumb":"thumbnail_1.jpg",
 	"thumbnail":"thumbnail_2_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
 	"donasi":"donasi.jpg",
-	"fake": " 「  ELAINABOT  」\nCreated By Dev.INDRA"
+	"fake": " 「  ELAINABOT  」\nCreated By Indra.Dev"
 }
