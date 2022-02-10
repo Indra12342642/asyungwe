@@ -1,0 +1,22 @@
+{
+    "self_mode": false,
+	"autobio": true,
+	"antihidetag": true,
+	"user_register": true,
+	"anti_delete" : true,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6282228302341",
+	"ownerNumberr": "6281347927862",
+	"cr": "Dev.RATU",
+	"ownername": "Dev.INDRA",
+	"botname":"🎭Elaina.BOT",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"donasi":"donasi.jpg",
+	"fake": " 「  ELAINABOT  」\nCreated By Dev.INDRA"
+}
